@@ -20,3 +20,14 @@ Run <strong>TDP</strong> on AntMaze Multi-goal Exploration:
 cd CleanDiffuser
 python pipelines/diffuser_d4rl_antmaze.py task.env_name=antmaze-large-diverse-ours-v2 mode=inference num_candidates=32 num_envs=1 use_sub_tree=True pg=True
 ```
+
+## Citation
+If you find <strong>TDP</strong> helpful, please consider citing:
+```bibtex
+@article{jeon2025tree,
+  title={Tree-Guided Diffusion Planner},
+  author={Jeon, Hyeonseong and Min, Cheolhong and Park, Jaesik},
+  journal={arXiv preprint arXiv:2508.21800},
+  year={2025}
+}
+```
