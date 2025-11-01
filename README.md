@@ -35,3 +35,14 @@ Run <strong>TDP</strong> on PnWP:
 ```bash
 python scripts/pick_kuka_planning_eval_pnwp.py --pg --use_sub_tree
 ```
+
+## Citation
+If you find <strong>TDP</strong> helpful, please consider citing:
+```bibtex
+@article{jeon2025tree,
+  title={Tree-Guided Diffusion Planner},
+  author={Jeon, Hyeonseong and Min, Cheolhong and Park, Jaesik},
+  journal={arXiv preprint arXiv:2508.21800},
+  year={2025}
+}
+```
