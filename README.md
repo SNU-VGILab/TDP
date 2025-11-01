@@ -40,3 +40,14 @@ Run <strong>TDP</strong> on multi2d-large:
 ```bash
 python scripts/plan_maze2d.py --dataset maze2d-large-v1 --task_name multi2d-large  --use_tree --pg
 ```
+
+## Citation
+If you find <strong>TDP</strong> helpful, please consider citing:
+```bibtex
+@article{jeon2025tree,
+  title={Tree-Guided Diffusion Planner},
+  author={Jeon, Hyeonseong and Min, Cheolhong and Park, Jaesik},
+  journal={arXiv preprint arXiv:2508.21800},
+  year={2025}
+}
+```
