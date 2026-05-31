@@ -22,11 +22,13 @@ This repository is organized into three separate sub-branches for each task:
 ## Citation
 If you find <strong>TDP</strong> helpful, please consider citing:
 ```bibtex
-@article{jeon2025tree,
+@article{jeon2026tree,
   title={Tree-Guided Diffusion Planner},
   author={Jeon, Hyeonseong and Min, Cheolhong and Park, Jaesik},
-  journal={arXiv preprint arXiv:2508.21800},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={67829--67855},
+  year={2026}
 }
 ```
 
